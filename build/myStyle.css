@@ -1,0 +1,103 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Rokkitt', serif;
+
+}
+.qp_logo {
+  width: 300px;
+  height: 100px;
+  background-image: url(/images/qp_logo-03.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.cover {
+  font-size: 1.5em;
+  text-align: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.6);
+}
+.container {
+  padding: 2%;
+}
+
+.block{
+  width: 100px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  margin: 2%;
+
+}
+.block h1 {
+ font-size: 1.2em;
+ text-align: center;
+}
+.Art1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 2%;
+  padding: 2%;
+  transition: all 1s ease;
+}
+
+.block img {
+  width: 100%;
+  border-radius: 10%;
+  cursor: pointer;
+}
+.block img:hover {
+  width: 95%;
+}
+
+.sideBar {
+    position: fixed;
+    top: 0;
+    right: 0;
+    display: flex;
+    width: 110px;
+    flex-direction: column;
+    overflow: scroll;
+    height: 98vh;
+    margin: 1%;
+    flex-wrap: unset;
+    padding: 1%;
+}
+
+.hide {
+  display: none;
+}
+
+.feeds {
+  width: 95%;
+  padding: 1%;
+  padding-right: 8%;
+}
+
+.feeds img {
+  width: 400px;
+  border-radius: 5%
+}
+.feeds h3 {
+  font-size: 1.1em;
+  font-weight: 100;
+}
+.feeds:last-child {
+  border-bottom: 1px solid rgba(158, 158, 158, 0.25);
+  margin-bottom: 5%;
+}
+
+
+.feedsIMG {
+  width: 100px;
+}

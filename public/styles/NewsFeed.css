@@ -1,0 +1,24 @@
+
+.feeds {
+  width: 95%;
+  padding: 1%;
+  padding-right: 8%;
+}
+
+.feeds img {
+  width: 400px;
+  border-radius: 5%
+}
+.feeds h3 {
+  font-size: 1.1em;
+  font-weight: 100;
+}
+.feeds:last-child {
+  border-bottom: 1px solid rgba(158, 158, 158, 0.25);
+  margin-bottom: 5%;
+}
+
+
+.feedsIMG {
+  width: 100px;
+}

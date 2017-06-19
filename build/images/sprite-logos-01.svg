@@ -1,0 +1,16 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1077 869">
+  <title>sprite-logos</title>
+  <image class="abcNews" width="120" height="120" transform="translate(14 219) scale(1.77)" xlink:href="abcNews.png"/>
+  <image class="bbc-news" width="120" height="120" transform="translate(13 431) scale(1.49 1.47)" xlink:href="bbc-news.png"/>
+  <image class="bbc-sport" width="120" height="120" transform="translate(13 642) scale(1.49 1.47)" xlink:href="bbc-sport-144.png"/>
+  <image class="binsider" width="120" height="120" transform="translate(14 11) scale(1.76 1.74)" xlink:href="binsider.png"/>
+  <image class="bloomberg" width="120" height="120" transform="translate(231 11) scale(1.36 1.34)" xlink:href="bloomberg.png"/>
+  <image class="breitbart" width="120" height="120" transform="translate(227 432) scale(1.38)" xlink:href="breitbart.png"/>
+  <image class="buzzfeed" width="120" height="120" transform="translate(226 219) scale(1.77)" xlink:href="buzzfeed.png"/>
+  <image class="cnbc" width="120" height="120" transform="translate(436 643) scale(1.73)" xlink:href="cnbc.png"/>
+  <image class="cnn" width="120" height="120" transform="translate(436 433) scale(2.74)" xlink:href="cnn.png"/>
+  <image class="entWeekly" width="120" height="120" transform="translate(226 642) scale(1.84)" xlink:href="entWeekly.png"/>
+  <image class="fortune" width="120" height="120" transform="translate(660 449) scale(1.54)" xlink:href="fortune.png"/>
+  <image class="uffington" width="120" height="120" transform="translate(852 433) scale(1.73)" xlink:href="huffington.png"/>
+  <image class="masha" width="120" height="120" transform="translate(644 643) scale(1.73)" xlink:href="masha.png"/>
+</svg>
